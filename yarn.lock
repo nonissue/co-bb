@@ -1824,10 +1824,10 @@ bumbag-server@^1.0.3:
   dependencies:
     emotion-server "10.0.27"
 
-bumbag@^1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/bumbag/-/bumbag-1.0.8.tgz#fd040961e7d31790c27a13d3d69ddaff29f2dffc"
-  integrity sha512-DWIJm6UA39Uh0MNM0+OsWJPiBsVLt+bjhvMi3NNTWz12Wo7qphTXYSDfkJxynRmoB6k+r/fnC4WzlhAPP5mJiw==
+bumbag@^1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/bumbag/-/bumbag-1.0.9.tgz#d728bcb37cd1132f2c2105f856a22d2d77fc169d"
+  integrity sha512-dCDdCmpvFTPXPJYGHhcqZW0h5YMy4VWTRl71B0sV4FlCeWGTnLunX7bghu9eQbEYy7nlsiyUIQ1hM3nFhJ/Gdw==
   dependencies:
     "@emotion/core" "^10.0.14"
     "@emotion/is-prop-valid" "^0.8.2"

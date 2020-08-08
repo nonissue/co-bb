@@ -9,6 +9,7 @@ const IndexPage = () => (
       <Paragraph>Welcome to your new Bumbag Next.js site.</Paragraph>
       <Paragraph>Now go build something great with your Bumbag!</Paragraph>
 
+      {/* <Test /> */}
       <Test />
     </PageContent>
   </Layout>
